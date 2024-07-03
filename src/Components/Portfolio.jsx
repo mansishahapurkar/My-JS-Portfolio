@@ -56,6 +56,8 @@ const projectList = [
   },
 ];
 
+
+
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
@@ -82,5 +84,6 @@ const Portfolio = () => {
     </section>
   );
 };
+
 
 export default Portfolio;
