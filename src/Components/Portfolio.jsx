@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mansi pic.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "snippet from my profile image";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Making a Portfolio website ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I completed the portfolio website project in ignite company by using html, css and javascript.beautifully describe myself.",
+    url: "https://www.linkedin.com/posts/mansi-shahapurkar-364b18246_ignite-internship-activity-7209510864926781442-g0vy?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Atm Interface",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I completed the Atm Interface project in codsoft internship by using java language.and It was successfully completed.",
+    url: "https://github.com/mansishahapurkar/Atm-Interface",
   },
   {
-    title: "My Resume Site",
+    title: "Omnifood website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I have created one website related to omnifood.which helps to provide nutricious food to ill peoples.",
+    url: "https://github.com/mansishahapurkar/omnifood",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "code editor",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I made one tool name codespen which helps as a online compiler for coding purpose.",
+    url: "https://github.com/mansishahapurkar/code-editor",
   },
 ];
 
