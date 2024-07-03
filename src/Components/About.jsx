@@ -24,7 +24,7 @@ const imageAltText = "Background image";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a student at Marathwada Mitra Mandal College of Engineering Pune.In electronics and Telecommunication branch";
+  "I am a student at Marathwada Mitra Mandal College of Engineering Pune.In electronics and Telecommunication branch.about my skill I am a fast learner, adaptible and easily achive anything.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

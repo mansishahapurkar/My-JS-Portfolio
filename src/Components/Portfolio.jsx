@@ -33,19 +33,19 @@ const projectList = [
   {
     title: "Making a Portfolio website ",
     description:
-      "I completed the portfolio website project in ignite company by using html, css and javascript.beautifully describe myself.",
+      "I completed the portfolio website project in ignite company by using html, css and javascript.beautifully describe myself.also this website is very creative and informative about myself.",
     url: "https://www.linkedin.com/posts/mansi-shahapurkar-364b18246_ignite-internship-activity-7209510864926781442-g0vy?utm_source=share&utm_medium=member_desktop",
   },
   {
     title: "Atm Interface",
     description:
-      "I completed the Atm Interface project in codsoft internship by using java language.and It was successfully completed.",
+      "I completed the Atm Interface project in codsoft internship by using java language.and It was successfully completed.in this project i dropped withdraw option,check balance option and many other options which are present in atm.",
     url: "https://github.com/mansishahapurkar/Atm-Interface",
   },
   {
     title: "Omnifood website",
     description:
-      "I have created one website related to omnifood.which helps to provide nutricious food to ill peoples.",
+      "I have created one website related to omnifood.which helps to provide nutricious food to ill peoples. also in this website we ban the heavy oily and junk food we advise those peoples who are eating these junk food to avoid the junk food.",
     url: "https://github.com/mansishahapurkar/omnifood",
   },
   {
